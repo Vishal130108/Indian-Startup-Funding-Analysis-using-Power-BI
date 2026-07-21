@@ -193,7 +193,24 @@ Policymakers should encourage startup development beyond metropolitan cities.
 Entrepreneurs should leverage investment trends to align business strategies with market demand.
 Continuous monitoring of funding trends can support informed investment decisions.
 
-**10. Conclusion**
+**10. Key Findings (with Metrics)**
+
+| **Metric** | **Key Finding** |
+|------------|-----------------|
+| **Total Funding (USD)** | USD **28.75 Billion** was invested in Indian startups. |
+| **Total Startups** | Approximately **2K startups** received funding. |
+| **Total Investors** | Around **2K investors** participated in funding rounds. |
+| **Total Cities** | The dataset covers **58 Indian cities**. |
+| **Average Funding per Startup** | Average funding per startup is **USD 17.59 Million**. |
+| **Highest Funding Year** | **2017** recorded the highest startup funding. |
+| **Top Funded Startup** | **Flipkart** secured the highest funding (USD **4.0 Billion**). |
+| **Leading Industry** | **E-Commerce** received the highest industry funding (USD **7.0 Billion**). |
+| **Top Business Category** | **Others** accounted for the largest share of funding (USD **13.86 Billion**). |
+| **Leading Investor** | **WestBridge Capital** emerged as the leading investor. |
+| **Geographical Insight** | Startup funding is primarily concentrated in major metropolitan cities, particularly **Bengaluru**. |
+
+
+**11. Conclusion**
 
 The Indian Startup Funding Analysis Dashboard demonstrates how Power BI can transform raw startup investment data into actionable business intelligence. Through comprehensive data preparation, DAX-based business metrics, interactive visualizations, and analytical storytelling, the dashboard provides valuable insights into funding trends, investor behavior, business categories, and geographical investment patterns.
 
